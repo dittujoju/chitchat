@@ -1,0 +1,7 @@
+﻿  main.cpp
+main.cpp(9): warning C4326: return type of 'main' should be 'int' instead of 'void'
+main.cpp(74): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  All 66 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  BarebonesServer.vcxproj -> C:\Users\Dittu Joju\source\repos\BarebonesServer\Release\BarebonesServer.exe

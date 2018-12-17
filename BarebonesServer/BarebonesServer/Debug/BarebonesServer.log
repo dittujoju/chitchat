@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\dittu joju\source\repos\barebonesserver\barebonesserver\main.cpp(9): warning C4326: return type of 'main' should be 'int' instead of 'void'
+c:\users\dittu joju\source\repos\barebonesserver\barebonesserver\main.cpp(74): warning C4018: '<': signed/unsigned mismatch
+  BarebonesServer.vcxproj -> C:\Users\Dittu Joju\source\repos\BarebonesServer\Debug\BarebonesServer.exe

@@ -1,0 +1,3 @@
+﻿  main.cpp
+c:\users\dittu joju\source\repos\chitchat\barebonesclient\barebonesclient\main.cpp(30): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  BarebonesClient.vcxproj -> C:\Users\Dittu Joju\source\repos\chitchat\BarebonesServer\Debug\BarebonesClient.exe
